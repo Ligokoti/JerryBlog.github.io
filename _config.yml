@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Jerry"
 title_right   : "L" # default: ""
-description   : "Jerry Li Blog Since Mar 10 2019"
+description   : "Jerry Li Blog Since Mar 09 2019"
 keywords      : "Welcome"
 url           :  # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
