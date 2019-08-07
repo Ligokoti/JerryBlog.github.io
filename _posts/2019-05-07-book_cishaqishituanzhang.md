@@ -5,7 +5,7 @@ description: ""
 comments: true
 keywords: ""
 ---
-![bookCover](/assets/images/20190507_001.jpg "bookcover")
+![bookCover](/assets/images/book/20190507_001.jpg "bookcover")
 
 ***
 ##### 免色涉——一个有趣又危险的人物
