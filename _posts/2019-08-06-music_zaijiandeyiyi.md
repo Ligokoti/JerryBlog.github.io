@@ -24,6 +24,9 @@ keywords: ""
 [![IMAGE ALT TEXT](/assets/images/music/20190806/002.png)](https://www.youtube.com/watch?v=3s0-XRLIAgM&t=42s "CameraMaster")
 <center><font color="#00dd00" size="2">👆点击上方图片可以跳转到视频👆
 </font><br /></center>
+
+<video src="/assets/images/music/20190806/zaijiandeyiyi720.mp4" controls="controls">
+</video>
 &emsp;&emsp;
 
 &emsp;&emsp;MV讲述的是一个虚构的故事，世界里存在着普通的人类与会受情绪波动的影响而长出刺的棘人，两个族裔每年都会协力举行一种叫“棘人式”的仪式，由人类用刀把棘人身上的刺切下，象征彼此间的和平。
