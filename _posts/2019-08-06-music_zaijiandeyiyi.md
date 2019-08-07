@@ -6,22 +6,39 @@ comments: true
 keywords: ""
 ---
 ***
-<center><font color="#00dd00" size="5">很多CD都已经被我循环太多遍了，CD所承载不止有我所喜欢的音乐。
+<center><font color="#00dd00" size="2">很多CD都已经被我循环太多遍了，CD所承载不止有我所喜欢的音乐。
 </font><br /></center>
 
-<center><font color="#00dd00" size="7">里面还存着我的回忆，音乐背后的故事，还有很多无法描述的感觉…
+<center><font color="#00dd00" size="2">里面还存着我的回忆，音乐背后的故事，还有很多无法描述的感觉…
 </font><br /></center>
+
 ![CD photo](/assets/images/music/20190806/001.jpg)
 
 &emsp;&emsp;《サヨナラの意味》是乃木坂46于2016年11月9日发行的第16张单曲，更是乃木坂46第一张破百万销量认证单曲。该单曲为乃木坂46中成员桥本奈奈未（奈奈未日语谐音为娜娜敏，下称娜娜敏）的毕业单曲。与一般偶像毕业后发展不同，娜娜敏选择了毕业后隐退，回归普通人的生活。
 &emsp;&emsp;因为这首歌的MV十分有意思，与娜娜敏的偶像生涯以自身特征十分契合，所以打算通过我对MV的解读来向大家推荐这首歌，以及娜娜敏。
 
-<center><font color="#00dd00" size="3">娜娜敏是我喜欢上乃木坂46的一个契机，也是一个终点。
-</center>
+<center><font color="#00dd00" size="2">娜娜敏是我喜欢上乃木坂46的一个契机，也是一个终点。
+</font><br /></center>
 ***
 
-<video id="video" controls="" preload="none" poster="/assets/images/music/20190806/001.jpg">
-<source id="mp4" src="/assets/images/music/20190806/zaijiandeyiyi.mp4" type="video/mp4">
-</video>
+&emsp;&emsp;MV讲述的是一个虚构的故事，世界里存在着普通的人类与会受情绪波动的影响而长出刺的棘人，两个族裔每年都会协力举行一种叫“棘人式”的仪式，由人类用刀把棘人身上的刺切下，象征彼此间的和平。
+
+![photo](/assets/images/music/20190806/003.png)
+
+&emsp;&emsp;故事的开头，三名穿着蓝色衣服的人类（西野七濑、生田绘梨花、高山一実）正在和室中聊天，他们是被选中参加仪式的人类代表，而西野七濑将担任除刺人，她一直在阅读一本名叫《棘人与猫》的书想要更加了解棘人。
+&emsp;&emsp;从他们的谈话以及偷偷看房间另一方的棘人的行为可以看出，现实社会中人类与棘人过着彼此分隔开的生活，且对彼此互不了解。
+
+![photo](/assets/images/music/20190806/004.png)
+
+&emsp;&emsp;在房间的另一方，身穿红色衣服的棘人桥本奈奈未坐在窗台上。镜头缓缓上升，娜娜敏的小腿上开始冒出尖尖的刺，眼睛盯着手中的纸飞机，像是在思考着什么。娜娜敏手中的纸飞机，是仪式进行时棘人挂在脸上使用的一张剪纸。
+
+![photo](/assets/images/music/20190806/005.png)
+
+
+
+
+
+
+
 
 
