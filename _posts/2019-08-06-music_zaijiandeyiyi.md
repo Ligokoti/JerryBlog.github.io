@@ -6,22 +6,22 @@ comments: true
 keywords: ""
 ---
 ***
-<center><font color="#00dd00" size="2.5">很多CD都已经被我循环太多遍了，CD所承载不止有我所喜欢的音乐。
+<center><font color="#00dd00" size="3">很多CD都已经被我循环太多遍了，CD所承载不止有我所喜欢的音乐。
 </font><br /></center>
 
-<center><font color="#00dd00" size="2">里面还存着我的回忆，音乐背后的故事，还有很多无法描述的感觉…
+<center><font color="#00dd00" size="3">里面还存着我的回忆，音乐背后的故事，还有很多无法描述的感觉…
 </font><br /></center>
 
-![cdphoto](/assets/images/music/20190806/001.jpg)
+![photo](/assets/images/music/20190806/001.jpg)
 
 &emsp;&emsp;《サヨナラの意味》是乃木坂46于2016年11月9日发行的第16张单曲，更是乃木坂46第一张破百万销量认证单曲。该单曲为乃木坂46中成员桥本奈奈未（奈奈未日语谐音为娜娜敏，下称娜娜敏）的毕业单曲。与一般偶像毕业后发展不同，娜娜敏选择了毕业后隐退，回归普通人的生活。
 &emsp;&emsp;因为这首歌的MV十分有意思，与娜娜敏的偶像生涯以自身特征十分契合，所以打算通过我对MV的解读来向大家推荐这首歌，以及娜娜敏。
 
-<center><font color="#00dd00" size="2">娜娜敏是我喜欢上乃木坂46的一个契机，也是一个终点。
+<center><font color="#00dd00" size="3">娜娜敏是我喜欢上乃木坂46的一个契机，也是一个终点。
 </font><br /></center>
-***
 
-<iframe height=525 width=940 src="http://https://www.youtube.com/watch?v=3s0-XRLIAgM&t=42s" frameborder=0 allowfullscreen></iframe>
+***
+[![IMAGE ALT TEXT](/assets/images/music/20190806/002.png)](https://www.youtube.com/watch?v=3s0-XRLIAgM&t=42s "CameraMaster")
 
 &emsp;&emsp;MV讲述的是一个虚构的故事，世界里存在着普通的人类与会受情绪波动的影响而长出刺的棘人，两个族裔每年都会协力举行一种叫“棘人式”的仪式，由人类用刀把棘人身上的刺切下，象征彼此间的和平。
 
@@ -44,30 +44,30 @@ keywords: ""
 &emsp;&emsp;娜娜敏很快主动伸手，而七濑在思考片刻后才缓缓伸手。娜娜敏见到七濑迟缓的反应后，迅速地收手离去。
 
 ![photo](/assets/images/music/20190806/007.png)
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 サヨナラに強くなれ この出会いに意味がある
 </font><br /></center>
-<center><font color="#00dd00" size="2">说了再见都变得更坚强 这段际遇因而有了意义
+<center><font color="#00dd00" size="3">说了再见都变得更坚强 这段际遇因而有了意义
 </font><br /></center>
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 悲しみの先に続く 僕たちの未来
 </font><br /></center>
-<center><font color="#00dd00" size="2">悲伤的尽头依然存在着 属于我们的未来
+<center><font color="#00dd00" size="3">悲伤的尽头依然存在着 属于我们的未来
 </font><br /></center>
 
 &emsp;&emsp;在仪式彩排时，七濑举刀看着娜娜敏手中长出的刺迟迟下不了手，反倒被娜娜敏的父亲吆喝着要狠心点。而另一旁娜娜敏的妹妹飞鸟看见台下一位人类手拿着机器对着姐姐拍摄感到不解，立马上前夺取DV机并争执起来。见状的七濑冲下台想要化解，但妹妹推开时不小心用刺划伤了七濑。这使本来互不了解的双方在关系上雪上加霜。这里MV画面切换成DV机画面以及画面故意调成色彩过饱和，映射着作为偶像的生活大部分时间都被镜头记录着，镜头下的偶像总是显得光鲜艳丽的。
 &emsp;&emsp;身旁的父亲没有去上前阻止，只是站在一旁看着，他对自己的小女儿失手伤害人类感到失望与恐惧。父亲的内心大概只是想通过仪式来向人类表示友好，因为曾经的战败使父亲产生了对人类始终保持着畏惧，同时希望让身为棘人的同族人了解到不能用身上的刺伤害到人类，希望能够与人类和平共存在这个世界里。
 
 ![photo](/assets/images/music/20190806/008.png)
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 始まりはいつだって そう 何かが終わること
 </font><br /></center>
-<center><font color="#00dd00" size="2">无论何时 只要有开始 就一定会有结束的一天
+<center><font color="#00dd00" size="3">无论何时 只要有开始 就一定会有结束的一天
 </font><br /></center>
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 もう一度君を抱きしめて 守りたかった愛に代わるもの
 </font><br /></center>
-<center><font color="#00dd00" size="2">再一次紧紧拥抱你 代替想要守护的爱情
+<center><font color="#00dd00" size="3">再一次紧紧拥抱你 代替想要守护的爱情
 </font><br /></center>
 
 &emsp;&emsp;后来娜娜敏给七濑送去创可贴，七濑跑前对娜娜敏感谢的时候，意外的发现他们两个人正在看同一本书。聊了几句过后，他们互相交换了书，此时棘人与人类的关系便有了一点缓解。娜娜敏在MV中的设定是外表上看似高冷，其实内心是温柔的，作为偶像的娜娜敏其实也是如此，同时也呼应了娜娜敏在2015年出版的一本写真集《やさしい棘》（温柔的刺）。
@@ -78,27 +78,27 @@ keywords: ""
 &emsp;&emsp;七濑在书中发现了一张去帝都的车票，夹着这张车票的书页中一页是描绘着短发棘人女孩与长发人类女孩十指紧扣的插画，背景是东京铁塔。帝都映射着东京大都市，意味着娜娜敏早就买好了车票，想要逃离这个地方去能够与人类和平相处的帝都，想要过着普通人的生活。
 
 ![photo](/assets/images/music/20190806/010.png)
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 サヨナラを振り向くな 追いかけてもしょうがない
 </font><br /></center>
-<center><font color="#00dd00" size="2">说了再见后就不要再回头 追寻过往也无济于事
+<center><font color="#00dd00" size="3">说了再见后就不要再回头 追寻过往也无济于事
 </font><br /></center>
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 思い出は今いる場所に置いて 行こうよ
 </font><br /></center>
-<center><font color="#00dd00" size="2">回忆就在这里将它放下 继续往前走吧
+<center><font color="#00dd00" size="3">回忆就在这里将它放下 继续往前走吧
 </font><br /></center>
 
 ![photo](/assets/images/music/20190806/011.png)
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 終わることためらって 人は皆立ち止まるけど
 </font><br /></center>
-<center><font color="#00dd00" size="2">为了结束而彷徨 人们因此而停下脚步
+<center><font color="#00dd00" size="3">为了结束而彷徨 人们因此而停下脚步
 </font><br /></center>
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 僕たちは抱き合ってた 腕を離して もっと強くなる
 </font><br /></center>
-<center><font color="#00dd00" size="2">互相拥抱的我们 放开了双臂后 要变得更坚强
+<center><font color="#00dd00" size="3">互相拥抱的我们 放开了双臂后 要变得更坚强
 </font><br /></center>
 
 &emsp;&emsp;七濑看到远处在雨天奔跑的娜娜敏立马追了出去，止步在湖边的水潭，看着远方孤岛中娜娜敏的背影。他们虽然有了一些交流，但七濑对娜娜敏的了解还是太少，不知道该如何安慰，只能默默看着她悲伤的背影。娜娜敏孤独的哭泣着，作为棘人的她既得不到人类的理解甚至也得不到父亲的理解，只能一个人默默的承受。
@@ -121,31 +121,32 @@ keywords: ""
 &emsp;&emsp;故事最后，七濑来到了房间里寻找娜娜敏但没有找到，这意味着娜娜敏已经坐上了前往帝都的列车，也暗喻了娜娜敏的毕业。七濑看到剪纸折成的纸飞机，呼应着MV开头娜娜敏手上拿着的那个纸飞机，娜娜敏的愿望成真了。七濑打开房门看到了身穿朴素白色衣服的娜娜敏坐在窗口，对七濑微微一笑。这时候的娜娜敏已经从红色的衣服换成了白色，意味着娜娜敏告别了自己的舞台。而最后对七濑的微笑，可以理解是对成员，对运营，对粉丝，对所有喜欢自己人的一个感谢和道别….
 
 ![photo](/assets/images/music/20190806/015.png)
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 もう一度君を抱きしめて 本当の気持ち問いかけた
 </font><br /></center>
-<center><font color="#00dd00" size="2">再一次紧紧拥抱你 问问你真正的感受
+<center><font color="#00dd00" size="3">再一次紧紧拥抱你 问问你真正的感受
 </font><br /></center>
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 失いたくない
 </font><br /></center>
-<center><font color="#00dd00" size="2">我不想失去
+<center><font color="#00dd00" size="3">我不想失去
 </font><br /></center>
-<center><font color="#8c8c8c" size="1">
+<center><font color="#8c8c8c" size="2">
 守りたかった 愛に代わるもの
 </font><br /></center>
-<center><font color="#00dd00" size="2">想要守护的爱情所换来的事物
+<center><font color="#00dd00" size="3">想要守护的爱情所换来的事物
 </font><br /></center>
 
 &emsp;&emsp;MV高潮时出现了成员们穿着打歌服在草原上跳舞，这套服装以北海道原住民阿依努族的传统服饰为基础设计，MV的拍摄地点也在北海道，也是娜娜敏的出生地。这支MV的两族裔的背景是大和民族与阿伊努族为原型所编写的。
 &emsp;&emsp;在日本明治时期，以狩猎捕鱼为主的阿伊努族所居住的“虾夷地”被强制纳入日本的行政范围，并取名北海道。在政府的推动下，大量大和人搬迁北海道进行开垦，并设立《旧土人保护法》，强迫阿伊努族人民学习当时“日本人”的生活习惯并禁止一切传统的狩猎和祭奠，让他们学习务农耕种。表面上进行“开化”教育，实际社会刻意将其与大和民族区分开来，后来饱受歧视的阿伊努族不得不隐藏自己的血统以及抛弃祖先流传下来的传统与智慧。
+
 ***
 
 &emsp;&emsp;几年前因为一些不可抗力的因素，没能去成娜娜敏的毕业Live，成了我一个很大的遗憾。每次听到这首歌的副歌的时候，都会感到很伤心，但同时也会被副歌的歌词所勉励到，期待着与你偶遇的一天。あの日は、キット絶好調だ！
 
-<center><font color="#cc00ff" size="3">说了再见后变得更坚强 这段际遇因而有了意义
+<center><font color="#cc00ff" size="4">说了再见后变得更坚强 这段际遇因而有了意义
 </font><br /></center>
-<center><font color="#cc00ff" size="3">说了再见后变得更坚强 这段际遇因而有了意义
+<center><font color="#cc00ff" size="4">悲伤的尽头依然存在着 属于我们的未来
 </font><br /></center>
 
 

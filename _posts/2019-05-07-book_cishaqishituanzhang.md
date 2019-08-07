@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "《刺杀骑士团长》——免色先生"
+title: "【僕の本屋】村上春树——《刺杀骑士团长》"
 description: ""
 comments: true
 keywords: ""
 ---
-![bookCover](/assets/images/v2-db0a44d2f5bdc26bdcc900add9575822_1200x500.jpg "bookcover")
+![bookCover](/assets/images/20190507_001.jpg "bookcover")
 
 ***
 ##### 免色涉——一个有趣又危险的人物
