@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【僕のCD】Vol.00《再见的意义》是终点也是起点"
+title: "【CD】Vol.00《再见的意义》是终点也是起点"
 description: "CD"
 comments: true
 keywords: ""

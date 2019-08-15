@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【僕の本屋】村上春树《舞！舞！舞！》"
+title: "【本屋】村上春树《舞！舞！舞！》"
 description: ""
 comments: true
 keywords: ""
