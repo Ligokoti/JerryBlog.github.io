@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【本屋】村上春树《挪威的森林》"
+title: "【书屋】村上春树《挪威的森林》"
 description: ""
 comments: true
 keywords: ""

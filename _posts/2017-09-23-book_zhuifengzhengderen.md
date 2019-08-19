@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【本屋】卡勒德·胡赛尼《追风筝的人》"
+title: "【书屋】卡勒德·胡赛尼《追风筝的人》"
 description: ""
 comments: true
 keywords: ""
