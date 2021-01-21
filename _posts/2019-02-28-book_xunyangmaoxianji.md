@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【书屋】村上春树《寻羊冒险记》"
+title: "【书】村上春树《寻羊冒险记》"
 description: ""
 comments: true
 keywords: ""

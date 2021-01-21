@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【书屋】渡边淳一《情人》"
+title: "【书】渡边淳一《情人》"
 description: ""
 comments: true
 keywords: ""

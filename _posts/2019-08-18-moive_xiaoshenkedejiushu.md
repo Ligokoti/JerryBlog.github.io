@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【电影】Frank Darabont《肖申克的救赎》"
+title: "【影】Frank Darabont《肖申克的救赎》"
 description: ""
 comments: true
 keywords: ""

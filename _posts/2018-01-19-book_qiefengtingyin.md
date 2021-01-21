@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【书屋】村上春树《且风听吟》"
+title: "【书】村上春树《且风听吟》"
 description: ""
 comments: true
 keywords: ""

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【书屋】Francis Scott Fitzgerald《了不起的盖茨比》"
+title: "【书】Francis Scott Fitzgerald《了不起的盖茨比》"
 description: ""
 comments: true
 keywords: ""

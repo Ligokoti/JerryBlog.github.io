@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【书屋】太宰治《人间失格》"
+title: "【书】太宰治《人间失格》"
 description: ""
 comments: true
 keywords: ""

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【书屋】村上春树《1973年的弹子球》"
+title: "【书】村上春树《1973年的弹子球》"
 description: ""
 comments: true
 keywords: ""

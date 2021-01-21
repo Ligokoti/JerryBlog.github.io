@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【书屋】村上春树《刺杀骑士团长》"
+title: "【书】村上春树《刺杀骑士团长》"
 description: ""
 comments: true
 keywords: ""
